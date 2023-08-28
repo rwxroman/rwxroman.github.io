@@ -1,0 +1,26 @@
+* {
+    /* for debugging */
+    /* border: 1px solid red; */
+}
+
+body {
+    width: 50%;
+    margin: auto;
+    background-color: #000;
+    color: #fff;
+}
+
+.content {
+    background-color: #242424;
+    height: 100%;
+    padding: 12px;
+}
+
+.heading {
+    font-size: 24px;
+}
+
+.text {
+    font-size: 24px;
+    margin-bottom: 8px;
+}

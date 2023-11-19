@@ -2,7 +2,7 @@ body {
   max-width: 50em;
   min-height: 100vh;
   margin: 0 auto;
-  font-family: Georgia, serif;
+  font-family: Georgia, sans-serif;
   font-size: 18px;
   line-height: 1.6em;
   background-color: #242424;
@@ -17,7 +17,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #0f0;
+  color: #00ff00;
 }
 
 .page {
